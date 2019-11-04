@@ -12,7 +12,7 @@ function App() {
             <div>
                 <ul>
                     <li> <Link to="/">Home</Link> </li>
-                    <li> <Link to="/users">See All U3ers</Link> </li>
+                    <li> <Link to="/users">See All Users</Link> </li>
                 </ul>
 
                 <Switch>
