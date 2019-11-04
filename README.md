@@ -10,4 +10,4 @@ This weeks assignments are all placed in [this (React_Second_Week)](https://gith
   * __Demo1 and Demo2 (done in class)__
     * [Source](https://github.com/Castau/React_Second_Week/tree/master/Monday_In_Class/src)
   * __React with routing__
-    * [Source](https://github.com/Castau/React_Second_Week/tree/master/monday_exercise/src)
+    * [Source](https://github.com/Castau/React_Second_Week/tree/master/monday_exercise/src) Thomas (teacher) told us that the work done in class today was equivalent with this assignment, and to just skip it. 
