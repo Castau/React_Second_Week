@@ -43,11 +43,11 @@ This weeks assignments are all placed in [this (React_Second_Week)](https://gith
 ## Questions
 
 ### Monday Assignment Questions
-* __Describe the term Single Page Application and why it relevant for modern web-applications__
+* __Describe the term Single Page Application and why it relevant for modern web-applications__  
 test  
-* __Describe how SPA's are implemented with React__
+* __Describe how SPA's are implemented with React__  
 test  
-* __Explain about Routing in React__
+* __Explain about Routing in React__  
 test  
 
 ### Tuesday Assignment Questions
