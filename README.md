@@ -44,7 +44,8 @@ This weeks assignments are all placed in [this (React_Second_Week)](https://gith
 
 ### Monday Assignment Questions
 * __Describe the term Single Page Application and why it relevant for modern web-applications__  
-test  
+[A single-page application](https://en.wikipedia.org/wiki/Single-page_application) is a web application or web site that interacts with the user by dynamically rewriting the current page rather than loading entire new pages from a server. This approach avoids interruption of the user experience between successive pages, making the application behave more like a desktop application. In an SPA, either all necessary code – HTML, JavaScript, and CSS – is retrieved with a single page load, or the appropriate resources are dynamically loaded and added to the page as necessary, usually in response to user actions. The page does not reload at any point in the process.  
+  
 * __Describe how SPA's are implemented with React__  
 test  
 * __Explain about Routing in React__  
