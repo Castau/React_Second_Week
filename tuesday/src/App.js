@@ -154,6 +154,7 @@ const AddBook = ({ bookFactory, editBook }) => {
     const emptyBook = { id: '', info: '', title: '' };
     const [book, setBook] = useState(editBook ? { ...editBook } : { ...emptyBook });
     let [isBlocking, setIsBlocking] = useState(false);
+    let [buttontext, setButtontext] = useState(editBook ? 'Edit ' : 'Add ');
 
     const handleChange = event => {
         const target = event.target;
@@ -165,7 +166,7 @@ const AddBook = ({ bookFactory, editBook }) => {
 
     const handleSubmit = event => {
         event.preventDefault();
-        if (isNaN(book.id)) {
+        if (book.id === '') {
             bookFactory.addBook(book);
         } else {
             bookFactory.editBook(book);
@@ -176,12 +177,12 @@ const AddBook = ({ bookFactory, editBook }) => {
 
     return (
         <div>
-            <p>Add a book</p>
+            <p>{buttontext} a book</p>
             <form>
                 <Prompt when={isBlocking} message={location => `Are you sure you want to go to ${location.pathname}`} />
                 <input id='title' type='text' placeholder='Book Title' value={book.title} onChange={handleChange}></input>
                 <input id='info' type='text' placeholder='Book Info' value={book.info} onChange={handleChange}></input>
-                <button onClick={handleSubmit}>Add Book</button>
+                <button onClick={handleSubmit}>{buttontext} Book</button>
             </form>
         </div>
 
