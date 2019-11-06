@@ -165,9 +165,12 @@ const AddBook = ({ bookFactory, editBook }) => {
 
     const handleSubmit = event => {
         event.preventDefault();
-        if (isNaN(book.id)) {
+        console.log('book id', book.id);
+        if (book.id === '') {
+            console.log('in add');
             bookFactory.addBook(book);
         } else {
+            console.log('in edit');
             bookFactory.editBook(book);
         }
         setBook({ ...emptyBook });
