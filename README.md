@@ -4,10 +4,8 @@ This weeks assignments are all placed in [this (React_Second_Week)](https://gith
 
 ### Monday Assignment Exercise
 * The **Monday** assignments include these files:  
-  * __Demo1 and Demo2 (done in class)__
-    * [Source](https://github.com/Castau/React_Second_Week/tree/master/Monday_In_Class/src), the teacher told us that [the work done in class today](https://docs.google.com/document/d/1a-ItkJGOl7rAtLQKxyqRiczaZeQyZDnvrS7llpvpg0I/edit) was equivalent with this assignment, and to just skip it. 
-  * __React with routing__
-    * [Source](https://github.com/Castau/React_Second_Week/tree/master/monday_exercise/src)   
+  * [Demo1 and Demo2 (done in class)](https://github.com/Castau/React_Second_Week/tree/master/Monday_In_Class/src), the teacher told us that [the work done in class today](https://docs.google.com/document/d/1a-ItkJGOl7rAtLQKxyqRiczaZeQyZDnvrS7llpvpg0I/edit) was equivalent with this assignment, and to just skip it. 
+  * [React with routing](https://github.com/Castau/React_Second_Week/tree/master/monday_exercise/src)   
     
 ### Tuesday Assignment Exercise
 * Link to assignment: 
