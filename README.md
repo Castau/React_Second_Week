@@ -1,10 +1,10 @@
 ## React_Second_Week
 
-This weeks assignments are all placed in [this (React_Second_Week)](https://github.com/Castau/React_Second_Week) repository. To see what belongs to a specific weekday and assignment, see the links below each day, in the following. All questions are answered in the bottom of this readme, also sectioned by the week days (and by specific assignment).  
+This weeks assignments are all placed in [this (React_Second_Week)](https://github.com/Castau/React_Second_Week) repository. To see what belongs to a specific weekday and assignment, see the links below.
 
 ### Monday Assignment Exercise
 * The **Monday** assignments include these files:  
-  * [Demo1 and Demo2 (done in class)](https://github.com/Castau/React_Second_Week/tree/master/Monday_In_Class/src), the teacher told us that [the work done in class today](https://docs.google.com/document/d/1a-ItkJGOl7rAtLQKxyqRiczaZeQyZDnvrS7llpvpg0I/edit) was equivalent with Demo1 and Demo2.
+  * [Demo1 and Demo2 (done in class)](https://github.com/Castau/React_Second_Week/tree/master/Monday_In_Class/src), Thomas told us that was equivalent with Demo1 and Demo2.
   * [React with routing](https://github.com/Castau/React_Second_Week/tree/master/monday_exercise/src)   
     
 ### Tuesday Assignment Exercise
@@ -24,5 +24,7 @@ This weeks assignments are all placed in [this (React_Second_Week)](https://gith
 * The **Tuesday** assignments include these files:  
   * [ReactRouter-Demo - same as tuesday](https://github.com/Castau/React_Second_Week/tree/master/tuesday) - again we were told to just do either the tuesday or friday exercise as they are equivalent. 
 
+
+I haven't had as much time as I usually do to complete the exercises this week, so some of them are not done compeltely, and I haven't answered the questions asked in the individual exercises this week. 
 
 
