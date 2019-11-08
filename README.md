@@ -1,6 +1,6 @@
 ## React_Second_Week
 
-This weeks assignments are all placed in [this (React_Second_Week)](https://github.com/Castau/React_Second_Week) repository. To see what belongs to a specific weekday and assignment, see the links below.
+This weeks assignments are all placed in this [(React_Second_Week)](https://github.com/Castau/React_Second_Week) repository. To see what belongs to a specific weekday and assignment, see the links below.
 
 ### Monday Assignment Exercise
 * The **Monday** assignments include these files:  
